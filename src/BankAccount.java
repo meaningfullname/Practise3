@@ -1,0 +1,3 @@
+interface BankAccount {
+    void accessAccount();
+}

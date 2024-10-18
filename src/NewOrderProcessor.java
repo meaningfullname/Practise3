@@ -1,0 +1,3 @@
+interface NewOrderProcessor {
+    void processNewOrder();
+}

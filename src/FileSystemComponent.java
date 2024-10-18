@@ -1,0 +1,3 @@
+interface FileSystemComponent {
+    void showDetails();
+}
